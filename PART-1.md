@@ -1,16 +1,44 @@
-## **Part 1: Proposal for Website Development** 
+## **Website Topic: Women's College Basketball Community** 
+The website will focus on NCAA Division 1 Women's Basketball, highlighitng its hi9story, key figures, and current developments.
+### **Purpose:**  
+To educate and inform fans, athletes, and aspiring players about the evolution, impact, and latest updates in women's college basketball.
 
-### **Objective:**  
-Each gperson must submit a formal proposal detailing their website concept, including the intended purpose, audience, and planned features.  
+### **Intended Audience:**  
+Basketball fans, college students, athletes, and sports analysts.
 
-### **Deliverables:**  
-- **Website Topic & Purpose:** Clearly define the subject of the website and why it is relevant.  
-- **Intended Audience:** Describe the target users and how they will interact with the site.  
-- **Planned Pages & Navigation Structure:** Outline the five required pages (`index.html`, `history.html`, `originators.html`, `current.html`, `contact.html`).  
-- **Wireframe Mockups:** Provide **hand-drawn or digital sketches** of the homepage and at least one subpage.  
-- **Color Scheme & Typography Choices:** Justify why the selected design elements are appropriate.  
-- **Features & Technologies:** List any planned **JavaScript elements, animations, media, forms, or interactive elements**.  
-- **Roles & Responsibilities:** Define how group members will contribute.  
+### **Planned Pages:**  
+- **index.html:** Introduction and latest updates in Women's Basketball
+- **history.html:** History of women's college basketball
+- **originators.html:** A collection of the pioneers, coaches, and teams that shaped the game
+- **current.html:** Latest rankings, top players/plays, tournament and bracket updates 
+- **contact.html:** Contact and community guidelines, user-feedback, or suggestions.
+
+
+### **Wireframe Mockups:** Provide **hand-drawn or digital sketches** of the homepage and at least one subpage.  
+
+### **Color Scheme & Typography Choices:** Justify why the selected design elements are appropriate.  
+#003049
+#FF7733
+#FF6978
+#00E8FC
+#A8F9FF
+
+Boldonse,
+Oswald,
+Raleway,
+Nunito,
+Rubik,
+
+The colors I chose I feel aren't associated with outher sport pages but I also chose them because of fun feeling they invoke all together. 
+I'm not final on my typography choices but I do know the general direction I want to go with it.
+
+### **Features & Technologies:** List any planned **JavaScript elements, animations, media, forms, or interactive elements**. 
+Embedded videos for game highlights.
+JavaScript for interactive elements.
+Forms for user engagement.
+
+
+
 
 ### **Grading Rubric (20 Points Total):**  
 | Criteria | Points | Description |
